@@ -7,7 +7,7 @@ import { ButtonPrimary, ButtonOutline } from "./Button"
 const Hero = () => {
   return (
    <section 
-   className="pt-28 lg:p-36"
+   className="pt-28 lg:p-10"
    id="home">
     <div className="container items-center lg:grid lg:grid-cols-2  lg:gap-10">
         <div>
