@@ -42,7 +42,7 @@ const Hero = () => {
             <figure className="w-full max-w-[480px] ml-auto bg-gradient-to-t from-sky-400 via-25% via-sky-400
             40 to-80% rounded-[60px] overflow-hidden">
                 <img 
-                src="/images/appphoto.png" 
+                src="/images/appphoto1.png" 
                 width={600}
                 height={800}
                 alt="Herobrodude"
