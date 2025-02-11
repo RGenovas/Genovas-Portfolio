@@ -27,7 +27,7 @@ const Hero = () => {
             </h2>
 
             <div className="flex item-center gap-3">
-            <a href="https://drive.google.com/file/d/1xX8dKM0xjEDYrAikaRt9sy8483hAOpd-/view?usp=sharing">  <ButtonPrimary 
+            <a href="https://drive.google.com/file/d/1xX8dKM0xjEDYrAikaRt9sy8483hAOpd-/view?usp=sharing" target="_blank">  <ButtonPrimary 
                label="Download CV"
                icon="download"> </ButtonPrimary></a>
 
@@ -36,6 +36,16 @@ const Hero = () => {
                label="Scroll down"
                icon="arrow_downward"
                />
+            </div>
+            <div className="flex item-center mt-5 gap-3 ">
+            <a href="https://drive.google.com/file/d/1J7i01qtGwIZnGgOdVZEm-XlmTkAkTthw/view?usp=drive_link " target="_blank">  <ButtonPrimary 
+               label="Vilnius Coding School certificate"
+               icon="download"> </ButtonPrimary></a>
+            </div>
+            <div className="flex item-center mt-5 gap-3 ">
+            <a href="https://docs.google.com/document/d/1y5lP-NUWrO9TEitFjP-iYChFBCKA24ZllPBgQZQGU-M/edit?usp=sharing" target="_blank">  <ButtonPrimary 
+               label="Raštas dėl kompetencijų (vėliau ištrinti)"
+               icon="download"> </ButtonPrimary></a>
             </div>
         </div>
         <div className="hidden lg:block">
@@ -46,7 +56,7 @@ const Hero = () => {
                 width={600}
                 height={800}
                 alt="Herobrodude"
-                className="w-full"/>
+                />
 
             </figure>
 

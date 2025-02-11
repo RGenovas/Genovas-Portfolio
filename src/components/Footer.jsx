@@ -34,6 +34,7 @@ const Footer = () => {
           label: 'LinkedIn',
           href: 'https://www.linkedin.com/in/robertas-genovas'
         }
+        
       ];
       
  return (
