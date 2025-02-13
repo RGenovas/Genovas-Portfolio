@@ -37,16 +37,7 @@ const Hero = () => {
                icon="arrow_downward"
                />
             </div>
-            <div className="flex item-center mt-5 gap-3 ">
-            <a href="https://drive.google.com/file/d/1J7i01qtGwIZnGgOdVZEm-XlmTkAkTthw/view?usp=drive_link " target="_blank">  <ButtonPrimary 
-               label="Vilnius Coding School certificate"
-               icon="download"> </ButtonPrimary></a>
-            </div>
-            <div className="flex item-center mt-5 gap-3 ">
-            <a href="https://docs.google.com/document/d/1y5lP-NUWrO9TEitFjP-iYChFBCKA24ZllPBgQZQGU-M/edit?usp=sharing" target="_blank">  <ButtonPrimary 
-               label="Raštas dėl kompetencijų (vėliau ištrinti)"
-               icon="download"> </ButtonPrimary></a>
-            </div>
+  
         </div>
         <div className="hidden lg:block">
             <figure className="w-full max-w-[480px] ml-auto bg-gradient-to-t from-sky-400 via-25% via-sky-400

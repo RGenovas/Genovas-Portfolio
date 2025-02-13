@@ -1,7 +1,4 @@
-/**
- * @copyright 2024 Dainius Genutis
- * @license Apache-2.0
- */
+
 
 /**
  * Node modules
